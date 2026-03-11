@@ -1,0 +1,12 @@
+# Binaries
+*.out
+*.o
+*.exe
+bin/
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.zed/
