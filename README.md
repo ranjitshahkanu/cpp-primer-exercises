@@ -1,6 +1,6 @@
 # C++ Primer Exercises
 
-A structured collection of exercises and experiments and small projects while studying **C++** using *C++ Primer (5th Edition)*.
+A structured collection of exercises, experiments, and small projects while studying **C++** using *C++ Primer (5th Edition)*.
 
 The goal of this repository is to build strong foundations in modern C++ while practicing clean project structure and consistent, incremental learning.
 
