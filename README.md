@@ -38,18 +38,21 @@ cpp-primer-exercises/
 │   ├── common/               # Shared utilities (timers, helpers)
 │   │   └── timer.hpp
 │   │
-│   ├── 01_getting_started/
-│   │   ├── 00_minimal_program/
-│   │   │   └── main.cpp
-│   │   └── 01_io_basics/
-│   │       └── hello_world.cpp
-│   │
-│   ├── 02_variables_and_basic_types/
-│   │   └── ...
+│   ├── exercises/            # All book exercises by chapter
+│   │   ├── 01_getting_started/
+│   │   │   ├── 00_minimal_program/
+│   │   │   │   └── main.cpp
+│   │   │   └── 01_io_basics/
+│   │   │       └── hello_world.cpp
+│   │   │
+│   │   ├── 02_variables_and_basic_types/
+│   │   │   └── ...
+│   │   │
+│   │   └── ...               # Future chapters
 │   │
 │   ├── experiments/          # Performance tests & optimized variations
 │   │
-│   └── projects/             # Larger experiments added later
+│   └── projects/             # Larger experiments / multi-topic projects
 ```
 
 ---
