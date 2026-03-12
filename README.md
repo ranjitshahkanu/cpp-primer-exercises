@@ -47,6 +47,8 @@ cpp-primer-exercises/
 │   ├── 02_variables_and_basic_types/
 │   │   └── ...
 │   │
+│   ├── experiments/          # Performance tests & optimized variations
+│   │
 │   └── projects/             # Larger experiments added later
 ```
 
