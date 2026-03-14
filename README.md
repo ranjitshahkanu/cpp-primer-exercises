@@ -41,9 +41,9 @@ cpp-primer-exercises/
 │   ├── exercises/            # All book exercises by chapter
 │   │   ├── 01_getting_started/
 │   │   │   ├── 00_minimal_program/
-│   │   │   │   └── main.cpp
+│   │   │   │   └── 00_main.cpp
 │   │   │   └── 01_io_basics/
-│   │   │       └── hello_world.cpp
+│   │   │       └── 01_hello_world.cpp
 │   │   │
 │   │   ├── 02_variables_and_basic_types/
 │   │   │   └── ...
