@@ -10,3 +10,9 @@ bin/
 # IDEs
 .vscode/
 .zed/
+# Build folders (important)
+build/
+
+# CMake (very common in C++)
+CMakeFiles/
+CMakeCache.txt
