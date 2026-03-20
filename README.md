@@ -64,7 +64,7 @@ cpp-primer-exercises/
 Compile a specific program:
 
 ```bash
-clang++ src/01_getting_started/01_io_basics/hello_world.cpp -o hello
+clang++ src/exercises/01_getting_started/01_io_basics/hello_world.cpp -o hello
 ./hello
 ```
 
