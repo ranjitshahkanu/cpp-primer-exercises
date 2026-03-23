@@ -6,3 +6,7 @@
 ### March 22, 2026
 **Subject: Probability and Statistics**
 - Standard Probability Distributions: Uniform distribution, exponential distribution, normal distribution
+
+### March 23, 2026
+**Subject: Probability and Statistics**
+- Two Dimensinal Random Variables: Joint probability distributions, marginal and conditional distributions
