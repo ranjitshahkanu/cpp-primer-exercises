@@ -10,3 +10,7 @@
 ### March 23, 2026
 **Subject: Probability and Statistics**
 - Two Dimensinal Random Variables: Joint probability distributions, marginal and conditional distributions
+
+### March 24, 2026
+**Subject: Probability and Statistics**
+- Two Dimensinal Random Variables: Correlation and Regression for discrete case
