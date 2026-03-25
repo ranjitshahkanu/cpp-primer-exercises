@@ -14,3 +14,7 @@
 ### March 24, 2026
 **Subject: Probability and Statistics**
 - Two Dimensinal Random Variables: Correlation and Regression for discrete case
+
+### March 25, 2026
+**Subject: Probability and Statistics**
+- Two Dimensinal Random Variables: covariance and correlation
