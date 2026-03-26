@@ -1,3 +1,6 @@
+--------------- 4th semester CIA - 2nd  start ---------------
+
+
 ### March 22, 2026
 **Subject: Cloud Computing**
 - Amazon Web Service: -Introduction to AWS, Future of AWS
@@ -22,3 +25,6 @@
 ### March 26, 2026
 **Subject: Cloud Computing**
 - EC2: Instances, AMIs, key pairs, security groups
+
+
+--------------- 4th semester CIA - 2nd  End ---------------
