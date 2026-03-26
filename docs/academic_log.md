@@ -18,3 +18,7 @@
 ### March 25, 2026
 **Subject: Probability and Statistics**
 - Two Dimensinal Random Variables: covariance and correlation
+
+### March 26, 2026
+**Subject: Cloud Computing**
+- EC2: Instances, AMIs, key pairs, security groups
