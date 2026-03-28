@@ -28,3 +28,12 @@
 
 
 --------------- 4th semester CIA - 2nd  End ---------------
+
+
+
+### March 28, 2026
+**Subject: Design Thinking NPTEL**
+- Phases of Design Thinking: Empathize → Define → Ideate → Prototype → Test 
+
+
+--------------- Design Thinking NPTEL Exam End ---------------
