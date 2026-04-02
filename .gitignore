@@ -19,6 +19,3 @@ CMakeCache.txt
 
 # Logs
 *.log
-
-# Environment files
-.env
