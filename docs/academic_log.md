@@ -37,3 +37,15 @@
 
 
 --------------- Design Thinking NPTEL Exam End ---------------
+
+
+
+---------- Design Thinking Project 2nd Review Start ----------
+
+
+### April 03, 2026
+**Subject: Design Thinking **
+- 2nd Review: Completed 
+
+
+---------- Design Thinking Project 2nd Review End ----------
