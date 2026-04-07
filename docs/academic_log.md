@@ -53,3 +53,8 @@
 
 
 --------------- 4th semester CIA - 3nd  start ---------------
+
+
+### April 07, 2026
+**Subject: Probability and Statistics**
+- Testing of Hypothesis: Introduction, Critical region and level of significance, Types of Errors;
