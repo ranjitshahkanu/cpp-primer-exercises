@@ -58,3 +58,7 @@
 ### April 07, 2026
 **Subject: Probability and Statistics**
 - Testing of Hypothesis: Introduction, Critical region and level of significance, Types of Errors;
+
+### April 08, 2026
+**Subject: Cloud Computing**
+- Storage: Simple Storage Service (S3) - Buckets, objects, permissions, lifecycle policies, S3 storage classes 
