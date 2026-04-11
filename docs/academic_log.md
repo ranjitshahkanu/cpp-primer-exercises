@@ -62,3 +62,7 @@
 ### April 08, 2026
 **Subject: Cloud Computing**
 - Storage: Simple Storage Service (S3) - Buckets, objects, permissions, lifecycle policies, S3 storage classes 
+
+### April 11, 2026
+**Subject: Computer Networks**
+- Transport Layer: Services – TCP – Three ways Handshake -protocols – congestion control – UDP – services – applications- Socket Programming with TCP and UDP.
