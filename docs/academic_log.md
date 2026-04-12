@@ -66,3 +66,7 @@
 ### April 11, 2026
 **Subject: Computer Networks**
 - Transport Layer: Services – TCP – Three ways Handshake -protocols – congestion control – UDP – services – applications- Socket Programming with TCP and UDP.
+
+### April 12, 2026
+**Subject: Probability and Statistics**
+- Large sample tests: Z-test for single mean and difference of means
