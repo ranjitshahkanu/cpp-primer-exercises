@@ -70,3 +70,7 @@
 ### April 12, 2026
 **Subject: Probability and Statistics**
 - Large sample tests: Z-test for single mean and difference of means
+
+### April 13, 2026
+**Subject: Probability and Statistics**
+- Small sample tests: Student’s t-test for testing significance of single mean and difference of means
