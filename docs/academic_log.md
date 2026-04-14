@@ -74,3 +74,7 @@
 ### April 13, 2026
 **Subject: Probability and Statistics**
 - Small sample tests: Student’s t-test for testing significance of single mean and difference of means
+
+### April 14, 2026
+**Subject: Probability and Statistics**
+- F-test: F-test for comparison of variances
