@@ -81,4 +81,4 @@
 
 ### April 15, 2026
 **Subject: Probability and Statistics**
-- F-test: F-test for comparison of variances
+- Chi-square test: Test of goodness of fit, Test of independence of attributes
