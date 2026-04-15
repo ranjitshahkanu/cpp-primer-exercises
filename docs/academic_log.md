@@ -78,3 +78,7 @@
 ### April 14, 2026
 **Subject: Probability and Statistics**
 - F-test: F-test for comparison of variances
+
+### April 15, 2026
+**Subject: Probability and Statistics**
+- F-test: F-test for comparison of variances
