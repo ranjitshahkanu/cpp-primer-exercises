@@ -82,3 +82,9 @@
 ### April 15, 2026
 **Subject: Probability and Statistics**
 - Chi-square test: Test of goodness of fit, Test of independence of attributes
+
+### April 16, 2026
+**Subject: Cloud Computing**
+- Elastic Block Store (EBS): Volumes, snapshots, backup strategies
+- Database: Relational Database System (RDS), Managed relational databases - DynamoDB
+
