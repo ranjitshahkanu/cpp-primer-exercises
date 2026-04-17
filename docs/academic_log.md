@@ -88,3 +88,8 @@
 - Elastic Block Store (EBS): Volumes, snapshots, backup strategies
 - Database: Relational Database System (RDS), Managed relational databases - DynamoDB
 
+### April 17, 2026
+**Subject: Cloud Computing**
+- Serverless: Lambda - AWS services vs Azure and GCP
+
+
